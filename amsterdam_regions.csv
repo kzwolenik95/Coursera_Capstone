@@ -1,0 +1,82 @@
+;Postal Code;City;Administrative Region;Population;Area km²;Population density per km²;Median Age;Neighborhoods;Latitude;Longitude
+0;1011;Amsterdam;North Holland;6606;1.032;6401.16;36.3;Amsterdam-Centrum, Stadsdeel Centrum;52.371124001377325;4.9037523024165015
+1;1012;Amsterdam;North Holland;7067;1.207;5855.01;36.3;Amsterdam-Centrum, Centrum, De Wallen, Stadsdeel Centrum;52.37317944319243;4.894910272622594
+2;1013;Amsterdam;North Holland;26792;6.3;4252.7;36.3;Amsterdam-Centrum, Amsterdam-West, Haarlemmerbuurt, Westpoort;52.38766164731084;4.883395592463587
+3;1014;Amsterdam;North Holland;15056;2.699;5578.36;36.3;Amsterdam-West, Bedrijventerrein Sloterdijk, Spaarndammer en Zeeheldenbuurt, Westpoort;52.39306619736478;4.853503213356852
+4;1015;Amsterdam;North Holland;5926;0.776;7636.6;36.3;Amsterdam-Centrum, Grachtengordel-West, Jordaan;52.378204584269135;4.882973178079979
+5;1016;Amsterdam;North Holland;5568;0.793;7021.44;36.3;Amsterdam-Centrum, Grachtengordel-West, Jordaan;52.37109132351637;4.881697784992604
+6;1017;Amsterdam;North Holland;9336;1.293;7220.42;36.3;Amsterdam-Centrum, Centrum, Grachtengordel-Zuid, Stadsdeel Centrum;52.36274177205177;4.892280603713021
+7;1018;Amsterdam;North Holland;14004;2.159;6486.34;36.3;Amsterdam-Centrum, Oostelijke Eilanden en Kadijken, Weesperbuurt en Plantage;52.36807823617956;4.917453383909628
+8;1019;Amsterdam;North Holland;13174;2.996;4397.2;36.3;Amsterdam-Oost, Oostelijk Havengebied;52.37194663876137;4.939920769128664
+9;1021;Amsterdam;North Holland;6539;1.486;4400.4;36.3;Amsterdam-Noord, Nieuwendammerham;52.384778238441285;4.916599120562967
+10;1022;Amsterdam;North Holland;4738;1.157;4095.07;36.3;Amsterdam-Noord, IJplein en Vogelbuurt;52.38928594342411;4.925420373689505
+11;1023;Amsterdam;North Holland;6128;2.597;2359.65;36.3;Amsterdam-Noord;52.39047884684676;4.946121217659955
+12;1024;Amsterdam;North Holland;7461;1.58;4722.15;36.3;Amsterdam-Noord;52.39404728866239;4.955210093854262
+13;1025;Amsterdam;North Holland;13033;2.414;5398.92;36.3;Amsterdam-Noord, Buikslotermeer;52.39803830486346;4.935604668711936
+14;1026;Amsterdam;North Holland;2946;12.4;237.58;36.3;Amsterdam-Noord, Waterland;52.37808917143015;4.991305814575084
+15;1027;Amsterdam;North Holland;6082;10.0;608.2;36.4;Amsterdam-Noord, Nieuwendam-Noord;52.40724933661409;4.96518124762512
+16;1028;Amsterdam;North Holland;2434;13.9;175.11;36.3;Amsterdam-Noord, Lindenholt;52.395170309046016;4.996784440399557
+17;1031;Amsterdam;North Holland;9049;1.621;5582.36;36.3;Amsterdam-Noord, Stadsdeel Noord;52.38946105649083;4.909546770560563
+18;1032;Amsterdam;North Holland;8332;1.482;5622.13;36.3;Amsterdam-Noord, Stadsdeel Noord;52.396353565557625;4.914709176280452
+19;1033;Amsterdam;North Holland;19151;3.881;4934.55;36.3;Amsterdam-Noord, Stadsdeel Noord;52.411719919191015;4.890497063871291
+20;1034;Amsterdam;North Holland;11152;2.107;5292.83;36.4;Amsterdam-Noord, Stadsdeel Noord;52.40728428568338;4.91694358000656
+21;1035;Amsterdam;North Holland;13196;2.616;5044.34;36.4;Amsterdam-Noord;52.41956266110459;4.8948809279927845
+22;1036;Amsterdam;North Holland;1765;0.242;7293.39;36.3;Amsterdam-Noord;52.40768643382525;4.902467160309511
+23;1041;Amsterdam;North Holland;17548;3.535;4964.07;36.3;Leidsche Rijn, Westpoort;52.41234296868036;4.834557948498176
+24;1042;Amsterdam;North Holland;13282;2.517;5276.92;36.3;Westelijk Havengebied, Westpoort;52.401103453519845;4.83698292101655
+25;1043;Amsterdam;North Holland;16208;3.425;4732.26;36.3;Amsterdam Nieuw-West, Bedrijventerrein Sloterdijk, Westpoort;52.38857436633176;4.835383172484131
+26;1044;Amsterdam;North Holland;16275;3.063;5313.42;36.3;Westelijk Havengebied, Westpoort;52.40313588297301;4.810605916204677
+27;1045;Amsterdam;North Holland;20241;5.9;3430.68;36.3;Amsterdam Nieuw-West, Westelijk Havengebied, Westpoort;52.40936909515471;4.792774427903648
+28;1046;Amsterdam;North Holland;15789;4.257;3708.95;36.3;Bedrijventerrein Sloterdijk, Westpoort;52.392510563944654;4.787228647573805
+29;1047;Amsterdam;North Holland;28120;10.5;2678.1;36.4;Westelijk Havengebied, Westpoort;52.40557611143749;4.758401344165865
+30;1051;Amsterdam;North Holland;6151;0.925;6649.73;36.3;Amsterdam-West, Staatsliedenbuurt, Stadsdeel West;52.38224344099702;4.871693447913716
+31;1052;Amsterdam;North Holland;4176;0.625;6681.6;36.3;Amsterdam-West, Frederik Hendrikbuurt;52.37640459986339;4.873604465425147
+32;1053;Amsterdam;North Holland;4582;0.709;6462.62;36.3;Amsterdam-West, Da Costabuurt, Kinkerbuurt;52.366625707914494;4.867852052009397
+33;1054;Amsterdam;North Holland;6186;0.957;6463.95;36.3;Amsterdam-West, Oud-Zuid;52.36191314872772;4.86731313100414
+34;1055;Amsterdam;North Holland;8424;1.26;6685.71;36.3;Amsterdam-West, Stadsdeel West;52.38027525568352;4.8529650407565885
+35;1056;Amsterdam;North Holland;6817;0.982;6941.96;36.3;Amsterdam-West, Stadsdeel West;52.37326897398641;4.856360358069738
+36;1057;Amsterdam;North Holland;6466;1.015;6370.44;36.3;Amsterdam Nieuw-West, Amsterdam-West, Stadsdeel West;52.3675329075371;4.855406405320228
+37;1058;Amsterdam;North Holland;7080;1.128;6276.6;36.3;Amsterdam Nieuw-West, Amsterdam-West, Hoofddorppleinbuurt, Oud-Zuid;52.3575790353668;4.851008044835248
+38;1059;Amsterdam;North Holland;4699;0.832;5647.84;36.3;Amsterdam Nieuw-West, Hoofddorppleinbuurt, Oud-Zuid;52.34884831741201;4.847014094098637
+39;1060;Amsterdam;North Holland;6496;1.621;4007.4;36.4;Amsterdam Nieuw-West;52.34789500355549;4.785776882067464
+40;1061;Amsterdam;North Holland;7450;1.103;6754.31;36.3;Amsterdam Nieuw-West, Amsterdam-West, Overtoomse Veld;52.376394082753386;4.840663349419665
+41;1062;Amsterdam;North Holland;9257;1.563;5922.58;36.3;Amsterdam Nieuw-West, Stadsdeel Nieuw-West;52.35454526417474;4.838194567005175
+42;1063;Amsterdam;North Holland;9431;1.298;7265.79;36.3;Amsterdam Nieuw-West, Stadsdeel Nieuw-West;52.38141501992985;4.826364538148187
+43;1064;Amsterdam;North Holland;12497;2.821;4429.99;36.3;Amsterdam Nieuw-West;52.37548149972498;4.820347644959681
+44;1065;Amsterdam;North Holland;9464;1.88;5034.04;36.3;Amsterdam Nieuw-West, Slotervaart;52.35740251432736;4.827133246403156
+45;1066;Amsterdam;North Holland;27614;6.4;4314.69;36.4;Amsterdam Nieuw-West, Sloten en Riekerpolder;52.34614288071138;4.814961622479744
+46;1067;Amsterdam;North Holland;24811;8.8;2819.43;36.3;Amsterdam Nieuw-West;52.37837024617855;4.799495214552312
+47;1068;Amsterdam;North Holland;11594;1.887;6144.14;36.3;Amsterdam Nieuw-West, Stadsdeel Nieuw-West;52.35947471142568;4.804401327711226
+48;1069;Amsterdam;North Holland;15531;2.317;6703.06;36.3;Amsterdam Nieuw-West, Osdorp-Midden;52.35626158061755;4.791768737413126
+49;1071;Amsterdam;North Holland;9773;1.366;7154.47;36.3;Museumkwartier, Oud-Zuid;52.35545907174067;4.878084400117526
+50;1072;Amsterdam;North Holland;4281;0.63;6795.24;36.3;De Pijp, Nieuwe Pijp, Oud-Zuid, Oude Pijp;52.35341777530693;4.890089015860727
+51;1073;Amsterdam;North Holland;4214;0.601;7011.65;36.3;De Pijp, Oud-Zuid, Oude Pijp;52.35259354125136;4.898727218851761
+52;1074;Amsterdam;North Holland;2445;0.432;5659.72;36.3;Nieuwe Pijp, Oud-Zuid, Oude Pijp;52.35352228348989;4.904361139356267
+53;1075;Amsterdam;North Holland;6139;0.98;6264.29;36.3;Oud-Zuid;52.35153684813516;4.858995342350382
+54;1076;Amsterdam;North Holland;8440;1.341;6293.81;36.3;Amsterdam-Zuid, Oud-Zuid, Stadionbuurt;52.34559052228183;4.861629510989366
+55;1077;Amsterdam;North Holland;11582;1.753;6606.96;36.3;Amsterdam-Zuid, Oud-Zuid;52.34697145364592;4.874096712876678
+56;1078;Amsterdam;North Holland;7797;1.161;6715.76;36.3;Amsterdam-Zuid, Scheldebuurt;52.34592981726314;4.896654533558334
+57;1079;Amsterdam;North Holland;9471;1.576;6009.52;36.3;Amsterdam-Zuid, Rijnbuurt;52.34240003490698;4.903499977832365
+58;1081;Amsterdam;North Holland;13677;3.311;4130.78;36.7;Amsterdam-Zuid, Stadsdeel Zuid;52.32734409389364;4.861016175053627
+59;1082;Amsterdam;North Holland;8852;1.53;5785.62;36.3;Amsterdam-Zuid, Stadsdeel Zuid;52.33032458797538;4.874354335269089
+60;1083;Amsterdam;North Holland;8869;1.729;5129.55;36.3;Amsterdam-Zuid, Buitenveldert-Oost;52.32954286488577;4.88526116637355
+61;1086;Amsterdam;North Holland;878;2.526;347.59;36.3;Amsterdam-Oost, IJburg West;52.36140586409781;4.980501181326976
+62;1087;Amsterdam;North Holland;6204;6.8;912.35;36.6;Amsterdam-Oost, IJburg West;52.35396673387138;4.999195126635439
+63;1091;Amsterdam;North Holland;6905;0.961;7185.22;36.3;Amsterdam-Oost, Oosterparkbuurt, Weesperzijde;52.35555611810678;4.914542378966609
+64;1092;Amsterdam;North Holland;3710;0.547;6782.45;36.3;Amsterdam-Oost, Oosterparkbuurt, Transvaalbuurt;52.35622495644301;4.922392184421325
+65;1093;Amsterdam;North Holland;3927;0.605;6490.91;36.3;Amsterdam-Oost, Dapperbuurt;52.36200861180301;4.927321113317876
+66;1094;Amsterdam;North Holland;3289;0.477;6895.18;36.3;Amsterdam-Oost, Indische Buurt West;52.36235635819196;4.935957000886543
+67;1095;Amsterdam;North Holland;11070;4.195;2638.86;36.3;Amsterdam-Oost, Indische Buurt Oost;52.36327357114145;4.943344125147395
+68;1096;Amsterdam;North Holland;12764;3.086;4136.1;36.5;Amsterdam-Oost, De Omval;52.338084879848765;4.921823787560639
+69;1097;Amsterdam;North Holland;15472;2.742;5642.6;36.3;Amsterdam-Oost, Stadsdeel Oost;52.346335010712274;4.931665155837801
+70;1098;Amsterdam;North Holland;14066;2.877;4889.12;36.4;Amsterdam-Oost, Middenmeer;52.35248825076434;4.9389127341588015
+71;1101;Amsterdam;North Holland;14750;2.384;6187.08;36.4;Amsterdam-Zuidoost, Zuidoost;52.30765674297119;4.942380308889652
+72;1102;Amsterdam;North Holland;13813;2.915;4738.59;36.4;Amsterdam-Zuidoost, Bijlmer-Centrum;52.31584609727451;4.95210017897229
+73;1103;Amsterdam;North Holland;9294;1.993;4663.32;36.4;Amsterdam-Zuidoost, Bijlmer-Oost;52.32262590894408;4.973526415016303
+74;1104;Amsterdam;North Holland;10044;2.104;4773.76;36.3;Amsterdam-Zuidoost;52.31672538871792;4.975781190219453
+75;1105;Amsterdam;North Holland;10310;3.48;2962.64;36.4;Amsterdam-Zuidoost, Zuidoost;52.296122104935854;4.9534103957238935
+76;1106;Amsterdam;North Holland;12102;2.54;4764.57;36.3;Amsterdam-Zuidoost;52.29881183624331;4.969301654218543
+77;1107;Amsterdam;North Holland;7301;1.997;3655.98;36.3;Amsterdam-Zuidoost;52.293491680209655;4.979733214333633
+78;1108;Amsterdam;North Holland;5045;2.858;1765.22;36.4;Amsterdam-Zuidoost, Nellestein;52.30801680751404;4.979697532301247
+79;1109;Amsterdam;North Holland;2766;1.65;1676.36;36.6;Amsterdam-Zuidoost, Stadsdeel Zuid;52.30587881547819;5.0167189511499135
+80;1114;Amsterdam;North Holland;5279;3.181;1659.54;42.3;Amsterdam-Oost, De Omval, Duivendrecht, Zuidoost;52.32729136342145;4.926695038493497
